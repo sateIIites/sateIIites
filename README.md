@@ -1,4 +1,4 @@
 <div align=center>
  
-  $\color{#F8D06B}{\textsf{heavy wip}}$
+  $\color{#BE0594}{\textsf{heavy wip}}$
 </div>
